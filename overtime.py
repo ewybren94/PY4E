@@ -1,3 +1,4 @@
+#Chapter 3 Exercise 1#
 Hours = input('Enter hours: ')
 Rate = input ('Enter rate: ')
 if int(Hours) <= 40:
